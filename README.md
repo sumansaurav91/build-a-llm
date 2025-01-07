@@ -9,4 +9,4 @@
 
 ## Contents
 
-1. [Understanding Large Language Models](./understanding-llm.md)
+1. [Understanding Large Language Models](./chapter-1/understanding-llm.md)
